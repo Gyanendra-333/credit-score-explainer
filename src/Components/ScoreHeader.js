@@ -20,7 +20,7 @@ const ScoreHeader = props => {
       <Col lg="4">
         <Card>
           <CardBody style={{ padding: 0 }}>
-          <Graph data={props.data} />
+            <Graph data={props.data} />
           </CardBody>
         </Card>
       </Col>
@@ -35,4 +35,4 @@ const ScoreHeader = props => {
   )
 }
 
-export default ScoreHeader
+export default ScoreHeader;
