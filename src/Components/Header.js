@@ -78,4 +78,4 @@ const HeaderNav = props => {
   )
 }
 
-export default HeaderNav
+export default HeaderNav;
